@@ -1,4 +1,14 @@
-# uzname-wordlists
+<h1 align="center">uzname-wordlists</h1>
+<p align="center">
+<a href="https://github.com/n3tshark/uzname-wordlists/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/n3tshark/uzname-wordlists?style=flat-square"></a>
+<a href="https://github.com/n3tshark/uzname-wordlists/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/n3tshark/uzname-wordlists?style=flat-square"></a>
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/n3tshark/uzname-wordlists/total?style=flat-square">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/n3tshark/uzname-wordlists/latest/total?style=flat-square">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/n3tshark/uzname-wordlists?style=flat-square">
+<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/n3tshark/uzname-wordlists?style=flat-square">
+<a href="https://github.com/n3tshark/uzname-wordlists"><img alt="GitHub license" src="https://img.shields.io/github/license/n3tshark/uzname-wordlists?style=flat-square"></a>
+<a href="https://t.me/netshark"><img alt="Telegram" src="https://img.shields.io/twitter/url?color=blue&label=Telegram%20-%20%40netshark&logo=telegram&style=flat-square&url=https%3A%2F%2Ft.me%2Fnetshark"></a>
+</p>
 
 Zip-compressed Uzbek cyrillic/latin alphabetic, upper/lower/capital-case, name/surname/patronymic wordlists (dictionaries) and their combinations. Those wordlists then can be used for brute-forcing attacks.
 
