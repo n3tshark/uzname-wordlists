@@ -3,7 +3,7 @@
 Zip-compressed Uzbek cyrillic/latin alphabetic, upper/lower/capital-case, name/surname/patronymic wordlists (dictionaries) and their combinations. Those wordlists then can be used for brute-forcing attacks.
 
 ## Latest release (v1.5 - 04.08.2022)
-### [Download here](https://github.com/n3tshark/uzname-wordlist-generator/releases/tag/v1.5.6)
+### [Download here](https://github.com/n3tshark/uzname-wordlists/releases/tag/v1.5.6)
 
 ### Files lists:
 #### Files sorted by name:
