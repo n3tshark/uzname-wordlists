@@ -10,7 +10,9 @@
 <a href="https://t.me/netshark"><img alt="Telegram" src="https://img.shields.io/twitter/url?color=blue&label=Telegram%20-%20%40netshark&logo=telegram&style=flat-square&url=https%3A%2F%2Ft.me%2Fnetshark"></a>
 </p>
 
-Zip-compressed Uzbek cyrillic/latin alphabetic, upper/lower/capital-case, name/surname/patronymic wordlists (dictionaries) and their combinations. Those wordlists then can be used for brute-forcing attacks.
+<p align="center">
+   Zip-compressed Uzbek cyrillic/latin alphabetic, upper/lower/capital-case, name/surname/patronymic wordlists (dictionaries) and their combinations. The wordlists contain common incorrect/typo versions of names/surnames/patronymics. Those wordlists then can be used for brute-forcing attacks.
+</p>
 
 ## Latest release (v1.5 - 04.08.2022)
 
