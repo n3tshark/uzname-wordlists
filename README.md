@@ -1,4 +1,4 @@
-<h1 align="center">uzname-wordlists</h1>
+<h1 align="center">UZname wordlists</h1>
 <p align="center">
 <a href="https://github.com/n3tshark/uzname-wordlists/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/n3tshark/uzname-wordlists?style=flat-square"></a>
 <a href="https://github.com/n3tshark/uzname-wordlists/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/n3tshark/uzname-wordlists?style=flat-square"></a>
